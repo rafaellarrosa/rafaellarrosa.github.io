@@ -1,36 +1,63 @@
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rafael Larrosa - Software Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
+
     <h1>Rafael Larrosa</h1>
-    <p>Senior Software Engineer | Data Engineer | Automation & AI Integrations</p>
+    <p><strong>Senior Software Engineer | Data Engineer | Automation & AI Integrations</strong></p>
     <p>📍 Florianópolis, SC, Brazil</p>
     <p>💼 <a href="https://www.linkedin.com/in/rafael-larrosa" target="_blank">LinkedIn</a> | 💻 <a href="https://github.com/rafaellarrosa" target="_blank">GitHub</a></p>
 
-    <h2>About Me</h2>
-    <p>I’m a software engineer with over 10 years of experience in backend development, automation, AI integrations, and scalable systems. Passionate about solving complex problems with simple, efficient, and creative solutions.</p>
+    <h2>Sobre Mim</h2>
+    <p>Sou um engenheiro de software com mais de 10 anos de experiência em desenvolvimento backend, automação, integração com IA e sistemas escaláveis. Apaixonado por resolver problemas complexos de forma simples, eficiente e com criatividade.</p>
 
-    <h2>Skills</h2>
+    <h2>Habilidades</h2>
     <ul>
-        <li>Languages: C#, .NET, Go, Node.js, SQL, TypeScript</li>
-        <li>Architecture: Microservices, Event-driven, Clean Architecture, DDD</li>
-        <li>Cloud: Azure, AWS, GCP</li>
-        <li>AI Integrations: OpenAI APIs, RAG (Retrieval-Augmented Generation)</li>
-        <li>Tools: Docker, Kubernetes, RabbitMQ, Kafka, CI/CD</li>
+        <li><strong>Linguagens:</strong> C#, .NET, Go, Node.js, SQL, TypeScript</li>
+        <li><strong>Arquitetura:</strong> Microsserviços, Event-driven, Clean Architecture, DDD</li>
+        <li><strong>Cloud:</strong> Azure, AWS, GCP</li>
+        <li><strong>IA:</strong> OpenAI, Azure OpenAI, <strong>RAG (Retrieval-Augmented Generation)</strong>, vetores, embeddings</li>
+        <li><strong>Infra:</strong> Docker, Kubernetes, RabbitMQ, Kafka, CI/CD</li>
     </ul>
 
-    <h2>Projects</h2>
+    <h2>Projetos de Destaque</h2>
     <ul>
-        <li><strong>Akad Seguros - Automated Quotation System:</strong> Reduced response time from 1 week to 1 minute with automation and AI.</li>
-        <li><strong>SellersFunding - Open Banking Microservices:</strong> Managed financial data, webhooks, and analytics pipelines.</li>
-        <li><strong>SampliFy Brasil - Logistics Digitalization:</strong> Admin platform, route optimization, and quotation systems.</li>
+        <li><strong>Akad Seguros:</strong> Sistema de cotação automatizado, com integração de IA, que reduziu o tempo de resposta de 1 semana para 1 minuto.</li>
+        <li><strong>SellersFunding:</strong> Microsserviços para gestão de transações financeiras, identidade, webhooks e pipelines analíticos.</li>
+        <li><strong>SampliFy Brasil:</strong> Plataforma completa de digitalização logística, incluindo administração, roteirização e cotações inteligentes.</li>
     </ul>
 
-    <h2>Contact</h2>
+    <h2>Contato</h2>
     <p>Email: <a href="mailto:rafael.larrosa@outlook.com">rafael.larrosa@outlook.com</a></p>
-    <p>Phone: +55 48 99170-9968</p>
+    <p>Telefone: +55 48 99170-9968</p>
+
 </body>
 </html>
